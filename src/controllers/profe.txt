@@ -1,0 +1,7 @@
+profe para comentarle que no me deja subir como tal el dataset a git hub 
+por ende la comunico aqui que dentro la carpeta controllers va el
+data set
+
+2. tambien reduje el numero de iiteraciones a 1000 porque mi lap se apagaba si usaba los 150,000 registros 
+
+lo puede modificar si gusta es la linea 23 de index.js
